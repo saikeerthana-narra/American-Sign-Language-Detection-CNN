@@ -14,7 +14,8 @@ It consists of 27,455 training cases and 7,172 test cases, with each case repres
 
 To use this code, follow the steps below:
 
-*Clone the repository:* git clone https://github.com/saikeerthana-narra/American-Sign-Language-Detection-with-CNN.git
+*Clone the repository:* 
+    git clone https://github.com/saikeerthana-narra/American-Sign-Language-Detection-with-CNN.git
 
 *Install the required libraries*
 
