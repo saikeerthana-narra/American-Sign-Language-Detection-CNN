@@ -18,13 +18,7 @@ To use this code, follow the steps below:
 
 *Install the required libraries*
 
-*Download the dataset*
-
-*The training and test datasets can be downloaded from the following links:* 
-
-    Training Dataset
-    
-    Test Dataset
+*Download the datasets*
 
 *Place the downloaded CSV files in the project directory*
 
