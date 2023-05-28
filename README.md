@@ -52,9 +52,9 @@ h) The training process includes data augmentation techniques such as rotation, 
 
 After training the model, the performance on the test data is evaluated. The following results were obtained:
 
-**LOSS: 0.2815**
+**LOSS: 0.04501**
 
-**ACCURACY: 0.9826**
+**ACCURACY: 0.9898**
 
 In this case, the model is achieving a relatively low loss value and a high test accuracy. 
 
